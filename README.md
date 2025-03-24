@@ -13,4 +13,4 @@ El repositorio es útil para cualquier persona que desee mejorar su comprensión
 
 Este repositorio es ideal para estudiantes de informática, programadores novatos y cualquier persona que quiera mejorar su habilidad en Java.
 
-
+![Texto alternativo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.manualweb.net%2Fjava%2Fconceptos-basicos-java%2F&psig=AOvVaw1kIIacLU2Iv6iwlsTZC76g&ust=1742912516925000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiKlqL1oowDFQAAAAAdAAAAABAQ)
