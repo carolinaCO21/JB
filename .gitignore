@@ -10,6 +10,11 @@ propiedades locales
 .ajustes/
 .ruta de carga
 .recomendadores
+# Eclipse specific files
+.settings/
+bin/
+.classpath
+.project
 
 # Constructores de herramientas externas
 .constructoresdeherramientasexternas/
