@@ -27,14 +27,15 @@ El repositorio es útil para cualquier persona que desee mejorar su comprensión
 3. Ejecuta los archivos .java directamente desde el IDE o compílalos desde la terminal
 
 ## 🚀 Cómo Usarlo
-Cada ejercicio ampliara tus conocimientos. Por ejemplo:
 
-// Ejemplo de bucle for para recorrer un array  
-int[] numeros = {1, 2, 3, 4, 5};  
-for (int i = 0; i < numeros.length; i++) {  
-    System.out.println("Número: " + numeros[i]);  
-}  
-Sugerencia: Modifica los valores o lógica en los ejemplos para experimentar con diferentes resultados.
+Abre el proyecto en tu IDE favorito (Eclipse, IntelliJ, VSCode, etc.).
+
+Ejecuta los archivos .java directamente desde el IDE o compílalos desde la terminal:
+
+javac NombreArchivo.java  # Compilar  
+java NombreArchivo        # Ejecutar  
+
+Cada clase implementa funcionalidades prácticas que permiten explorar conceptos fundamentales de Java.
 
 ## ¡Explora los ejemplos y domina Java! 💻⚡
 
